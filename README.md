@@ -5,10 +5,12 @@
 - 📫 Fale comigo pelo e-mail: ldrr@cin.ufpe.br
 - 😄 Pronomes: ele/dele
 
-<div>
-  <a href="https://github.com/lucarameh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucarameh&show_icons=true&theme=dark&include_all_commits=true" />
-</div>
+<a href="https://github.com/lucarameh">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarameh" />
+</a>
+<a href="https://github.com/lucarameh">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucarameh&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucarameh/lucarameh/output/github-contribution-grid-snake-dark.svg">
